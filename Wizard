@@ -1,15 +1,16 @@
-    /\
-   / .\
-  /. . \
- /. .  .\
-~-------~~
- | o   o |
-\|   ^   |/       |
- \ \--~  /         |
-  ~-----`         |
-  / .    \        |
- |   . .  |      /
- |  .      \____/
- |       
+        /\
+       / .\
+      /. . \
+     /. .  .\
+   _~-------~~_
+  \ | o   o | /
+   \|   ^   |/      |
+    \ \___/ /       |
+     \~----/`       |
+    / .    \        |
+   |   . .  |      /
+   |  .      \____/
+   |       
  This is debug Elvish Wizard! He knows all of the secrets of Racket, Idris, JS, Python,
  You name it!
+
